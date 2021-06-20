@@ -51,7 +51,7 @@ $ yarn proxy
 http://localhost:3333/chart/tracks
 
 # Acesse o seguinte link para acessar um track_List especifica arquivo .Json retornado da API.
-search(O nome Track_List desejada)
+# search(O nome Track_List desejada)
 http://localhost:3333/search?q=search
 ```
 
