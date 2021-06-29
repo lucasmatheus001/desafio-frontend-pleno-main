@@ -26,7 +26,7 @@ As ferramentas utilizadas na construção do projeto foram:
 - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 - [Fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Yarn ou Npm] (https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+- [Yarn ou Npm](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
 - [VSCode](https://code.visualstudio.com)
 - [Git Bash](https://gitforwindows.org/)
 
